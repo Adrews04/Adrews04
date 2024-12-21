@@ -8,6 +8,7 @@
 <img src= > -->
 
 I am currently studying Intelligent Systems Engineering at UASLP in San Luis Potosí, Mexico, while pursuing a double degree in Bachelor of Science in Applied Computer Science at City University of Seattle, USA.
+
 [![@Adrews04](https://img.icons8.com/fluency/48/000000/linkedin.png "@jose-andres-silva-bravo")](https://www.linkedin.com/in/josé-andrés-silva-bravo-a93510312) 
 
 
